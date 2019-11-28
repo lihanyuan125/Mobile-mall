@@ -1,3 +1,5 @@
+http://132.232.76.126:8888/
+
 # mall
 
 ## Project setup
